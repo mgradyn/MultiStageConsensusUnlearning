@@ -67,7 +67,7 @@ pip install -r requirements.txt
 - **Finetuned Checkpoints**: Place the checkpoints in directories under `./models/CLIP_MU/`.
 - **Zero-shot Accuracies**: Bundle the baseline json accuracy file in the root (e.g. `zeroshot_accuracies_ViT-B-32.json`).
 
-*For dataset layout guidelines, check [data/README.md](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/data/README.md).*
+*For dataset layout guidelines, check [data/README.md](data/README.md).*
 
 ### 3. Run Unlearning
 
