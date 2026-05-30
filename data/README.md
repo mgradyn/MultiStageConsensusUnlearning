@@ -37,15 +37,3 @@ data/
     ├── val/
     └── train/
 ```
-
-## Dataset Configuration Defaults
-For details on how each dataset is initialized, preprocessed, or split into validation and test sets, refer to the loader files in the package:
-- [cars.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/cars.py)
-- [dtd.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/dtd.py)
-- [eurosat.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/eurosat.py)
-- [gtsrb.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/gtsrb.py)
-- [mnist.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/mnist.py)
-- [resisc45.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/resisc45.py)
-- [sun397.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/sun397.py)
-- [svhn.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/svhn.py)
-- [imagenet.py](file:///Users/grady/Documents/research-internship/src/ModularConsensusUnlearning/src/datasets/imagenet.py)
